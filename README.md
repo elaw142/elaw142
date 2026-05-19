@@ -13,9 +13,4 @@ I build reliable web products across frontend, backend, and cloud, with a soft s
 - Recent work spans e-commerce, insurance SaaS, GIS/activity games, mobile apps, and cloud-backed product builds
 - I reach for React, TypeScript, Vite, Tailwind, React Native, .NET/C#, Python, Java, AWS, Azure, PostgreSQL/PostGIS, and Figma
 
-## Featured repos
-
-- [Trippa](https://github.com/elaw142/Trippa) - award-winning carpooling app built with React Native, .NET, and Azure
-- [Verbatim](https://github.com/elaw142/Verbatim) - Swift Word of the Day app built from the public GitHub archive
-
 For the fuller story, project notes, experience, and contact details, head to [emlw.dev](https://www.emlw.dev/).
